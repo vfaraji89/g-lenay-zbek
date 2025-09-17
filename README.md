@@ -1,2 +1,2 @@
-# g-lenay-zbek
+# gülenay özbek
 web
